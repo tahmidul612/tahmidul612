@@ -17,7 +17,7 @@ jobs:
           template: classic
           base: header, activity, metadata
           repositories_affiliations: ""
-          commits_authoring: tahmidul612, Tahmidul Islam, thelittolprince
+          commits_authoring: tahmidul612, Tahmidul Islam, thelittolprince, Tahmidul
           config_timezone: America/Toronto
           output_condition: data-changed
           token: ${{ secrets.METRICS_TOKEN }}
@@ -30,13 +30,12 @@ jobs:
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
             gnuplot
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 4
+          plugin_languages_limit: 6
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_days: 30
           plugin_habits_trim: yes
           plugin_habits_from: 500
-          plugin_habits_languages_limit: 0
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
