@@ -1714,17 +1714,17 @@
                 
                   <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                 
-                  <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                  <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -2328,25 +2328,25 @@
                   
                     <div class="entry">
                       <span class="name">COMP3473_Assignment2</span>
-                      <div class="bar" style="width: 43.688%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                      <div class="bar" style="width: 43.776%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                       <span class="value">55%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Assignment_1</span>
-                      <div class="bar" style="width: 19.84%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 19.880000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">25%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Assignment 2</span>
-                      <div class="bar" style="width: 12.8%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 12.824%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">16%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">tahmidul612</span>
-                      <div class="bar" style="width: 3.192%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 3.2%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">4%</span>
                     </div>
                   
@@ -2367,31 +2367,31 @@
                   
                     <div class="entry">
                       <span class="name">C</span>
-                      <div class="bar" style="width: 50.776%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                      <span class="value">63%</span>
+                      <div class="bar" style="width: 50.88%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                      <span class="value">64%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">SQL</span>
-                      <div class="bar" style="width: 16.872%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 16.912%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">21%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Markdown</span>
-                      <div class="bar" style="width: 5.728%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 5.736%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">7%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">JSON</span>
-                      <div class="bar" style="width: 2.68%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 2.6879999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">3%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Text</span>
-                      <div class="bar" style="width: 1.8960000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 1.904%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">2%</span>
                     </div>
                   
@@ -2453,7 +2453,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 9 Nov 2023, 19:09:07 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 10 Nov 2023, 19:09:10 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
