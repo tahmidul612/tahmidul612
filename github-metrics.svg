@@ -2349,32 +2349,32 @@
                   
                     <div class="entry">
                       <span class="name">YAML</span>
-                      <div class="bar" style="width: 73.176%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                      <span class="value">91%</span>
+                      <div class="bar" style="width: 72.03200000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <span class="value">90%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">JSON</span>
-                      <div class="bar" style="width: 2.9600000000000004%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 2.872%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">4%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">TOML</span>
-                      <div class="bar" style="width: 2.256%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 2.192%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">3%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Bash</span>
-                      <div class="bar" style="width: 1.552%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 1.5039999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">2%</span>
                     </div>
                   
                     <div class="entry">
-                      <span class="name">SQL</span>
-                      <div class="bar" style="width: 0.04%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">0%</span>
+                      <span class="name">Other</span>
+                      <div class="bar" style="width: 1.3439999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">2%</span>
                     </div>
                   
                 
@@ -2435,7 +2435,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 19 Jan 2024, 19:09:41 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 20 Jan 2024, 19:10:32 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
