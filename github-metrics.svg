@@ -1704,17 +1704,17 @@
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
               <g>
                 
-                  <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -2334,7 +2334,7 @@
                   
                     <div class="entry">
                       <span class="name">tpdb</span>
-                      <div class="bar" style="width: 49.800000000000004%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                      <div class="bar" style="width: 49.80799999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                       <span class="value">62%</span>
                     </div>
                   
@@ -2352,7 +2352,7 @@
                   
                     <div class="entry">
                       <span class="name">pwsh-config</span>
-                      <div class="bar" style="width: 3.2799999999999994%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 3.2560000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">4%</span>
                     </div>
                   
@@ -2367,13 +2367,13 @@
                   
                     <div class="entry">
                       <span class="name">YAML</span>
-                      <div class="bar" style="width: 52.63999999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                      <div class="bar" style="width: 52.65599999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                       <span class="value">66%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">PowerShell</span>
-                      <div class="bar" style="width: 10.288%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 10.296%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">13%</span>
                     </div>
                   
@@ -2453,7 +2453,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 14 Feb 2024, 19:09:16 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 15 Feb 2024, 19:09:06 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
