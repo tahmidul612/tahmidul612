@@ -1706,11 +1706,11 @@
                 
                   <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                 
-                  <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                  <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -1722,9 +1722,9 @@
                 
                   <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
-                  <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                  <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -2322,20 +2322,14 @@
                   
                     <div class="entry">
                       <span class="name">Unknown Project</span>
-                      <div class="bar" style="width: 55.03999999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                      <span class="value">69%</span>
-                    </div>
-                  
-                    <div class="entry">
-                      <span class="name">WindowsConfig</span>
-                      <div class="bar" style="width: 16.272%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">20%</span>
+                      <div class="bar" style="width: 69.096%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <span class="value">86%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">PortusMedia-docker</span>
-                      <div class="bar" style="width: 8.687999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">11%</span>
+                      <div class="bar" style="width: 10.904%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">14%</span>
                     </div>
                   
                 
@@ -2349,26 +2343,14 @@
                   
                     <div class="entry">
                       <span class="name">AutoHotkey</span>
-                      <div class="bar" style="width: 55.03999999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                      <span class="value">69%</span>
-                    </div>
-                  
-                    <div class="entry">
-                      <span class="name">INI</span>
-                      <div class="bar" style="width: 15.911999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">20%</span>
+                      <div class="bar" style="width: 69.096%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <span class="value">86%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">YAML</span>
-                      <div class="bar" style="width: 8.687999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">11%</span>
-                    </div>
-                  
-                    <div class="entry">
-                      <span class="name">Markdown</span>
-                      <div class="bar" style="width: 0.36000000000000004%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">0%</span>
+                      <div class="bar" style="width: 10.904%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">14%</span>
                     </div>
                   
                 
@@ -2429,7 +2411,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 14 Oct 2024, 20:11:57 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 15 Oct 2024, 20:12:12 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
