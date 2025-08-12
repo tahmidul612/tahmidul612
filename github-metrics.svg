@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1094" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1059" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1710,9 +1710,9 @@
                 
                   <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -1967,7 +1967,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/></svg>
       Recent coding habits
       
-        <small class="h-details">(computed from last 26 commits)</small>
+        <small class="h-details">(computed from last 17 commits)</small>
       
     </h2>
     
@@ -1977,7 +1977,7 @@
             <li>Uses spaces for indentation</li>
           
           
-            <li>Has approximately 29.2 characters per line of code written</li>
+            <li>Has approximately 28.8 characters per line of code written</li>
           
           
             <li>Mostly pushes code around 12:00</li>
@@ -2005,30 +2005,6 @@
                 
               
 
-              
-                <div class="entry">
-                  <span class="value">1</span>
-                  <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                  04
-                </div>
-              
-                <div class="entry">
-                  <span class="value">2</span>
-                  <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                  05
-                </div>
-              
-                <div class="entry">
-                  <span class="value"></span>
-                  <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                  06
-                </div>
-              
-                <div class="entry">
-                  <span class="value"></span>
-                  <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                  07
-                </div>
               
                 <div class="entry">
                   <span class="value">4</span>
@@ -2109,20 +2085,20 @@
                 </div>
               
                 <div class="entry">
-                  <span class="value">3</span>
-                  <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                  <span class="value"></span>
+                  <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                   21
                 </div>
               
                 <div class="entry">
-                  <span class="value">2</span>
-                  <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                  <span class="value"></span>
+                  <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                   22
                 </div>
               
                 <div class="entry">
-                  <span class="value">2</span>
-                  <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                  <span class="value">1</span>
+                  <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                   23
                 </div>
               
@@ -2169,14 +2145,14 @@
                   </div>
                 
                   <div class="entry">
-                    <span class="value">6</span>
-                    <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                    <span class="value"></span>
+                    <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                     Fri
                   </div>
                 
                   <div class="entry">
-                    <span class="value">3</span>
-                    <div class="bar" style="height: 15px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                    <span class="value"></span>
+                    <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                     Sat
                   </div>
                 
@@ -2192,50 +2168,38 @@
                 
                   <div class="entry">
                     <span class="name">TSX</span>
-                    <div class="bar" style="width: 28.546081813701328%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                    <span class="value">36%</span>
-                  </div>
-                
-                  <div class="entry">
-                    <span class="name">Python</span>
-                    <div class="bar" style="width: 9.592956919192261%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                    <span class="value">12%</span>
-                  </div>
-                
-                  <div class="entry">
-                    <span class="name">HTML</span>
-                    <div class="bar" style="width: 5.0903002356245395%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                    <span class="value">6%</span>
-                  </div>
-                
-                  <div class="entry">
-                    <span class="name">CSS</span>
-                    <div class="bar" style="width: 4.098921798308094%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                    <span class="value">5%</span>
+                    <div class="bar" style="width: 37.81727114171996%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                    <span class="value">47%</span>
                   </div>
                 
                   <div class="entry">
                     <span class="name">TypeScript</span>
-                    <div class="bar" style="width: 3.0713557525469732%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                    <span class="value">4%</span>
+                    <div class="bar" style="width: 4.068869907428112%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                    <span class="value">5%</span>
                   </div>
                 
                   <div class="entry">
                     <span class="name">JavaScript</span>
-                    <div class="bar" style="width: 1.749427817198566%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                    <div class="bar" style="width: 1.8267519341711014%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                     <span class="value">2%</span>
                   </div>
                 
                   <div class="entry">
                     <span class="name">Smarty</span>
-                    <div class="bar" style="width: 1.3081550395970754%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                    <div class="bar" style="width: 1.7330173069182953%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                    <span class="value">2%</span>
+                  </div>
+                
+                  <div class="entry">
+                    <span class="name">Python</span>
+                    <div class="bar" style="width: 1.5197889182058046%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                     <span class="value">2%</span>
                   </div>
                 
                   <div class="entry">
                     <span class="name">Dockerfile</span>
-                    <div class="bar" style="width: 1.1566531863324263%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                    <span class="value">1%</span>
+                    <div class="bar" style="width: 1.3731049595277491%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                    <span class="value">2%</span>
                   </div>
                 
               </div>
@@ -2309,7 +2273,7 @@
           
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/></svg>
-              Mostly coding in YAML
+              Mostly coding in Other
             </div>
           
         </section>
@@ -2346,25 +2310,25 @@
                   
                     <div class="entry">
                       <span class="name">Unknown Project</span>
-                      <div class="bar" style="width: 32.552%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                      <span class="value">41%</span>
-                    </div>
-                  
-                    <div class="entry">
-                      <span class="name">docker-compose</span>
-                      <div class="bar" style="width: 28.327999999999996%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                      <span class="value">35%</span>
+                      <div class="bar" style="width: 45.512%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                      <span class="value">57%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">ansible-playbooks</span>
-                      <div class="bar" style="width: 17.736%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">22%</span>
+                      <div class="bar" style="width: 20.831999999999997%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                      <span class="value">26%</span>
+                    </div>
+                  
+                    <div class="entry">
+                      <span class="name">docker-compose</span>
+                      <div class="bar" style="width: 11.728000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">15%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">nginx</span>
-                      <div class="bar" style="width: 1.376%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 1.928%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">2%</span>
                     </div>
                   
@@ -2378,32 +2342,32 @@
                 
                   
                     <div class="entry">
-                      <span class="name">YAML</span>
-                      <div class="bar" style="width: 41.264%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                      <span class="value">52%</span>
+                      <span class="name">Other</span>
+                      <div class="bar" style="width: 47.199999999999996%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                      <span class="value">59%</span>
                     </div>
                   
                     <div class="entry">
-                      <span class="name">Other</span>
-                      <div class="bar" style="width: 33.760000000000005%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                      <span class="value">42%</span>
+                      <span class="name">YAML</span>
+                      <div class="bar" style="width: 29.816000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                      <span class="value">37%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Markdown</span>
-                      <div class="bar" style="width: 4.5760000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">6%</span>
+                      <div class="bar" style="width: 2.432%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">3%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Nginx configuration file</span>
-                      <div class="bar" style="width: 0.312%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">0%</span>
+                      <div class="bar" style="width: 0.44000000000000006%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">1%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Git Config</span>
-                      <div class="bar" style="width: 0.047999999999999994%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 0.064%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">0%</span>
                     </div>
                   
@@ -2465,7 +2429,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 10 Aug 2025, 20:15:42 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 11 Aug 2025, 20:14:15 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
