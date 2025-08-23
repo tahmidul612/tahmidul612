@@ -1708,9 +1708,9 @@
                 
                   <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -2310,8 +2310,14 @@
                   
                     <div class="entry">
                       <span class="name">Kometa</span>
-                      <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <div class="bar" style="width: 79.768%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                       <span class="value">100%</span>
+                    </div>
+                  
+                    <div class="entry">
+                      <span class="name">tpdb</span>
+                      <div class="bar" style="width: 0.23199999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">0%</span>
                     </div>
                   
                 
@@ -2325,8 +2331,14 @@
                   
                     <div class="entry">
                       <span class="name">YAML</span>
-                      <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <div class="bar" style="width: 79.768%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                       <span class="value">100%</span>
+                    </div>
+                  
+                    <div class="entry">
+                      <span class="name">Markdown</span>
+                      <div class="bar" style="width: 0.23199999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">0%</span>
                     </div>
                   
                 
@@ -2387,7 +2399,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 21 Aug 2025, 20:13:26 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 22 Aug 2025, 20:12:52 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
