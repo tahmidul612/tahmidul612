@@ -2238,19 +2238,25 @@
                   
                     <div class="entry">
                       <span class="name">Kometa</span>
-                      <div class="bar" style="width: 52.76%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                      <span class="value">66%</span>
+                      <div class="bar" style="width: 38.408%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                      <span class="value">48%</span>
+                    </div>
+                  
+                    <div class="entry">
+                      <span class="name">docker-compose</span>
+                      <div class="bar" style="width: 21.768%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                      <span class="value">27%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">qbit_manage</span>
-                      <div class="bar" style="width: 27.160000000000004%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                      <span class="value">34%</span>
+                      <div class="bar" style="width: 19.768%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">25%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Unknown Project</span>
-                      <div class="bar" style="width: 0.08%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 0.064%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">0%</span>
                     </div>
                   
@@ -2265,13 +2271,13 @@
                   
                     <div class="entry">
                       <span class="name">YAML</span>
-                      <div class="bar" style="width: 79.92000000000002%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <div class="bar" style="width: 79.93599999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                       <span class="value">100%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Other</span>
-                      <div class="bar" style="width: 0.08%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 0.064%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">0%</span>
                     </div>
                   
@@ -2333,7 +2339,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 30 Aug 2025, 20:14:56 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 31 Aug 2025, 20:16:10 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
