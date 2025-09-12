@@ -2091,8 +2091,14 @@
                   
                     <div class="entry">
                       <span class="name">Task-OKR</span>
-                      <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                      <span class="value">100%</span>
+                      <div class="bar" style="width: 53.40800000000001%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                      <span class="value">67%</span>
+                    </div>
+                  
+                    <div class="entry">
+                      <span class="name">portfolio</span>
+                      <div class="bar" style="width: 26.592000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                      <span class="value">33%</span>
                     </div>
                   
                 
@@ -2106,14 +2112,20 @@
                   
                     <div class="entry">
                       <span class="name">HTML</span>
-                      <div class="bar" style="width: 70.00800000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                      <span class="value">88%</span>
+                      <div class="bar" style="width: 46.744%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                      <span class="value">58%</span>
+                    </div>
+                  
+                    <div class="entry">
+                      <span class="name">TeX</span>
+                      <div class="bar" style="width: 26.592000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                      <span class="value">33%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">JSON</span>
-                      <div class="bar" style="width: 9.991999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">12%</span>
+                      <div class="bar" style="width: 6.672000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">8%</span>
                     </div>
                   
                 
@@ -2174,7 +2186,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 10 Sept 2025, 20:12:43 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 11 Sept 2025, 20:13:00 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
