@@ -1718,9 +1718,9 @@
                 
                   <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -2286,14 +2286,14 @@
                   
                     <div class="entry">
                       <span class="name">portfolio</span>
-                      <div class="bar" style="width: 71.152%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                      <span class="value">89%</span>
+                      <div class="bar" style="width: 69.19200000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <span class="value">86%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">sunshine-scripts</span>
-                      <div class="bar" style="width: 8.848%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">11%</span>
+                      <div class="bar" style="width: 10.808%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">14%</span>
                     </div>
                   
                 
@@ -2307,19 +2307,19 @@
                   
                     <div class="entry">
                       <span class="name">TeX</span>
-                      <div class="bar" style="width: 71.152%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                      <span class="value">89%</span>
+                      <div class="bar" style="width: 69.19200000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <span class="value">86%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Bash</span>
-                      <div class="bar" style="width: 8.591999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">11%</span>
+                      <div class="bar" style="width: 10.495999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">13%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Other</span>
-                      <div class="bar" style="width: 0.256%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 0.312%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">0%</span>
                     </div>
                   
@@ -2381,7 +2381,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 18 Sept 2025, 20:13:22 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 19 Sept 2025, 20:12:04 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
