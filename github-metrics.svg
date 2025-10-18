@@ -1704,21 +1704,21 @@
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
               <g>
                 
-                  <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
-                  <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                  <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
                   <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
                   <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
-                  <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                  <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -2082,32 +2082,20 @@
                   
                     <div class="entry">
                       <span class="name">gallery</span>
-                      <div class="bar" style="width: 58.760000000000005%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                      <span class="value">73%</span>
-                    </div>
-                  
-                    <div class="entry">
-                      <span class="name">artgallery-wallpaper</span>
-                      <div class="bar" style="width: 15.384%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">19%</span>
-                    </div>
-                  
-                    <div class="entry">
-                      <span class="name">portfolio</span>
-                      <div class="bar" style="width: 3.3360000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">4%</span>
-                    </div>
-                  
-                    <div class="entry">
-                      <span class="name">rcmusic-free</span>
-                      <div class="bar" style="width: 1.5839999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">2%</span>
+                      <div class="bar" style="width: 61.152%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <span class="value">76%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">insta_rag</span>
-                      <div class="bar" style="width: 0.9359999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">1%</span>
+                      <div class="bar" style="width: 17.2%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">22%</span>
+                    </div>
+                  
+                    <div class="entry">
+                      <span class="name">rcmusic-free</span>
+                      <div class="bar" style="width: 1.6480000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">2%</span>
                     </div>
                   
                 
@@ -2121,32 +2109,32 @@
                   
                     <div class="entry">
                       <span class="name">TypeScript</span>
-                      <div class="bar" style="width: 28%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                      <span class="value">35%</span>
+                      <div class="bar" style="width: 29.144000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                      <span class="value">36%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Python</span>
-                      <div class="bar" style="width: 15.752000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">20%</span>
+                      <div class="bar" style="width: 13.319999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">17%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Bash</span>
-                      <div class="bar" style="width: 9.144%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">11%</span>
+                      <div class="bar" style="width: 9.520000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">12%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">JSON</span>
-                      <div class="bar" style="width: 7.759999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">10%</span>
+                      <div class="bar" style="width: 8.512%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">11%</span>
                     </div>
                   
                     <div class="entry">
-                      <span class="name">Markdown</span>
-                      <div class="bar" style="width: 7.328%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">9%</span>
+                      <span class="name">JavaScript</span>
+                      <div class="bar" style="width: 6.456%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">8%</span>
                     </div>
                   
                 
@@ -2207,7 +2195,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 16 Oct 2025, 20:13:36 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 17 Oct 2025, 20:12:40 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
