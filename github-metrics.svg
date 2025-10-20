@@ -1704,17 +1704,17 @@
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
               <g>
                 
-                  <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
                   <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
                   <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
-                  <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                  <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -2082,14 +2082,14 @@
                   
                     <div class="entry">
                       <span class="name">insta_rag</span>
-                      <div class="bar" style="width: 66.45599999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                      <span class="value">83%</span>
+                      <div class="bar" style="width: 67.712%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <span class="value">85%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">gallery</span>
-                      <div class="bar" style="width: 13.544%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">17%</span>
+                      <div class="bar" style="width: 12.287999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">15%</span>
                     </div>
                   
                 
@@ -2103,31 +2103,31 @@
                   
                     <div class="entry">
                       <span class="name">Python</span>
-                      <div class="bar" style="width: 45.24%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                      <span class="value">57%</span>
+                      <div class="bar" style="width: 46.087999999999994%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                      <span class="value">58%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">TOML</span>
-                      <div class="bar" style="width: 18.503999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">23%</span>
+                      <div class="bar" style="width: 18.855999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">24%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">JavaScript</span>
-                      <div class="bar" style="width: 13.36%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">17%</span>
+                      <div class="bar" style="width: 12.104000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">15%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">JSON</span>
-                      <div class="bar" style="width: 1.672%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 1.704%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">2%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Other</span>
-                      <div class="bar" style="width: 0.608%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 0.616%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">1%</span>
                     </div>
                   
@@ -2189,7 +2189,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 18 Oct 2025, 20:15:02 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 19 Oct 2025, 20:14:22 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
