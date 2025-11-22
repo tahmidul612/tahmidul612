@@ -1704,23 +1704,23 @@
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
               <g>
                 
-                  <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                  <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                 
-                  <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                  <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
                   <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
@@ -1728,7 +1728,7 @@
                 
                   <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
-                  <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                  <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -1813,17 +1813,17 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="220.50070615519195" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="217.2718936476179" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="220.50070615519195" y="0" width="109.16713504935802" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="217.2718936476179" y="0" width="107.5685904586876" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="329.66784120455" y="0" width="84.46353206760347" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="324.8404841063055" y="0" width="89.96254776625118" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="414.13137327215344" y="0" width="28.97795295357876" height="8" fill="#012456"/>
+              <rect mask="url(#languages-bar)" x="414.8030318725567" y="0" width="28.553626072400633" height="8" fill="#012456"/>
             
-              <rect mask="url(#languages-bar)" x="443.1093262257322" y="0" width="8.989626304663295" height="8" fill="#222c37"/>
+              <rect mask="url(#languages-bar)" x="443.3566579449573" y="0" width="8.857990364094086" height="8" fill="#222c37"/>
             
-              <rect mask="url(#languages-bar)" x="452.09895253039554" y="0" width="7.901047469604493" height="8" fill="#178600"/>
+              <rect mask="url(#languages-bar)" x="452.21464830905137" y="0" width="7.785351690948617" height="8" fill="#178600"/>
             
           </svg>
         
@@ -1840,7 +1840,7 @@
                     <small>
                       
                        <div>1.97 MB</div>
-                       <div>47.93%</div>
+                       <div>47.23%</div>
                     </small>
                   </div>
                 
@@ -1851,8 +1851,8 @@
                     </div>
                     <small>
                       
-                       <div>756 kB</div>
-                       <div>18.36%</div>
+                       <div>817 kB</div>
+                       <div>19.56%</div>
                     </small>
                   </div>
                 
@@ -1864,7 +1864,7 @@
                     <small>
                       
                        <div>80.4 kB</div>
-                       <div>1.95%</div>
+                       <div>1.93%</div>
                     </small>
                   </div>
                 
@@ -1880,7 +1880,7 @@
                     <small>
                       
                        <div>977 kB</div>
-                       <div>23.73%</div>
+                       <div>23.38%</div>
                     </small>
                   </div>
                 
@@ -1892,7 +1892,7 @@
                     <small>
                       
                        <div>259 kB</div>
-                       <div>6.3%</div>
+                       <div>6.21%</div>
                     </small>
                   </div>
                 
@@ -1904,7 +1904,7 @@
                     <small>
                       
                        <div>70.7 kB</div>
-                       <div>1.72%</div>
+                       <div>1.69%</div>
                     </small>
                   </div>
                 
@@ -2082,31 +2082,31 @@
                   
                     <div class="entry">
                       <span class="name">obsidian-scripts</span>
-                      <div class="bar" style="width: 38.416000000000004%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                      <span class="value">48%</span>
-                    </div>
-                  
-                    <div class="entry">
-                      <span class="name">n8n-code</span>
-                      <div class="bar" style="width: 6.888%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">9%</span>
+                      <div class="bar" style="width: 42.288%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                      <span class="value">53%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Awesome-Linux-Software</span>
-                      <div class="bar" style="width: 5.224%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 5.752000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">7%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">docker-qbittorrent-wireguard</span>
-                      <div class="bar" style="width: 4.184%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 5.032%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">6%</span>
+                    </div>
+                  
+                    <div class="entry">
+                      <span class="name">diskonaut</span>
+                      <div class="bar" style="width: 3.76%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">5%</span>
                     </div>
                   
                     <div class="entry">
-                      <span class="name">Unknown Project</span>
-                      <div class="bar" style="width: 3.5600000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="name">sunshine-scripts</span>
+                      <div class="bar" style="width: 3.176%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">4%</span>
                     </div>
                   
@@ -2121,32 +2121,32 @@
                   
                     <div class="entry">
                       <span class="name">Python</span>
-                      <div class="bar" style="width: 40.72%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                      <span class="value">51%</span>
+                      <div class="bar" style="width: 43.848%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                      <span class="value">55%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Other</span>
-                      <div class="bar" style="width: 18.688%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">23%</span>
+                      <div class="bar" style="width: 20.64%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                      <span class="value">26%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Bash</span>
-                      <div class="bar" style="width: 11.992%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">15%</span>
-                    </div>
-                  
-                    <div class="entry">
-                      <span class="name">Markdown</span>
-                      <div class="bar" style="width: 6.912000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">9%</span>
+                      <div class="bar" style="width: 13.200000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">17%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">YAML</span>
-                      <div class="bar" style="width: 1.2%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 1.32%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">2%</span>
+                    </div>
+                  
+                    <div class="entry">
+                      <span class="name">Markdown</span>
+                      <div class="bar" style="width: 0.496%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">1%</span>
                     </div>
                   
                 
@@ -2207,7 +2207,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 20 Nov 2025, 19:13:50 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 21 Nov 2025, 19:13:18 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
