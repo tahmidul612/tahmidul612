@@ -1708,9 +1708,9 @@
                 
                   <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -2082,13 +2082,13 @@
                   
                     <div class="entry">
                       <span class="name">clay-automation</span>
-                      <div class="bar" style="width: 40.256%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                      <div class="bar" style="width: 40.096%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                       <span class="value">50%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">n8n-code</span>
-                      <div class="bar" style="width: 39.168000000000006%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                      <div class="bar" style="width: 39.016000000000005%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                       <span class="value">49%</span>
                     </div>
                   
@@ -2096,6 +2096,12 @@
                       <span class="name">appendixReport</span>
                       <div class="bar" style="width: 0.424%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">1%</span>
+                    </div>
+                  
+                    <div class="entry">
+                      <span class="name">powerkit</span>
+                      <div class="bar" style="width: 0.32%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">0%</span>
                     </div>
                   
                     <div class="entry">
@@ -2115,31 +2121,31 @@
                   
                     <div class="entry">
                       <span class="name">Markdown</span>
-                      <div class="bar" style="width: 32.88%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                      <div class="bar" style="width: 33.072%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                       <span class="value">41%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">JSON</span>
-                      <div class="bar" style="width: 21.568%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                      <div class="bar" style="width: 21.48%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                       <span class="value">27%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">JavaScript</span>
-                      <div class="bar" style="width: 17.68%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 17.608%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">22%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Other</span>
-                      <div class="bar" style="width: 4.5840000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 4.568%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">6%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">CSV</span>
-                      <div class="bar" style="width: 2.44%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 2.432%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">3%</span>
                     </div>
                   
@@ -2201,7 +2207,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 14 Dec 2025, 19:15:39 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 15 Dec 2025, 19:15:34 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
