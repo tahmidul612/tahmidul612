@@ -2082,25 +2082,25 @@
                   
                     <div class="entry">
                       <span class="name">clay-automation</span>
-                      <div class="bar" style="width: 53.263999999999996%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                      <span class="value">67%</span>
+                      <div class="bar" style="width: 36.696%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                      <span class="value">46%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">google-cloud-node</span>
-                      <div class="bar" style="width: 25.776%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                      <span class="value">32%</span>
+                      <div class="bar" style="width: 30.896%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                      <span class="value">39%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">n8n-code</span>
-                      <div class="bar" style="width: 0.696%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">1%</span>
+                      <div class="bar" style="width: 12.232%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">15%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">n8n-workflows</span>
-                      <div class="bar" style="width: 0.256%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 0.17600000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">0%</span>
                     </div>
                   
@@ -2115,25 +2115,25 @@
                   
                     <div class="entry">
                       <span class="name">Other</span>
-                      <div class="bar" style="width: 79.00800000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                      <span class="value">99%</span>
-                    </div>
-                  
-                    <div class="entry">
-                      <span class="name">JSON</span>
-                      <div class="bar" style="width: 0.43200000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">1%</span>
-                    </div>
-                  
-                    <div class="entry">
-                      <span class="name">Markdown</span>
-                      <div class="bar" style="width: 0.4%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">1%</span>
+                      <div class="bar" style="width: 77.44%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <span class="value">97%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">JavaScript</span>
-                      <div class="bar" style="width: 0.16%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 1.968%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">2%</span>
+                    </div>
+                  
+                    <div class="entry">
+                      <span class="name">JSON</span>
+                      <div class="bar" style="width: 0.29600000000000004%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">0%</span>
+                    </div>
+                  
+                    <div class="entry">
+                      <span class="name">Markdown</span>
+                      <div class="bar" style="width: 0.29600000000000004%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">0%</span>
                     </div>
                   
@@ -2195,7 +2195,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 7 Jan 2026, 19:15:33 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 8 Jan 2026, 19:15:06 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
